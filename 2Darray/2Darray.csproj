@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_2Darray.additionof2darray</StartupObject>
+    <StartupObject>_2Darray.progran2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,16 @@
   <ItemGroup>
     <Compile Include="additionof2darray.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Program1.cs" />
+    <Compile Include="program10.cs" />
+    <Compile Include="program3.cs" />
+    <Compile Include="program4.cs" />
+    <Compile Include="program5.cs" />
+    <Compile Include="program6.cs" />
+    <Compile Include="program7.cs" />
+    <Compile Include="program8.cs" />
+    <Compile Include="program9.cs" />
+    <Compile Include="progran2.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
